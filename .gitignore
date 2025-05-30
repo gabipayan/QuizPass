@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+dist/
+client/dist/
+server/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VSCode config
+.vscode/
+
+# Mac system files
+.DS_Store

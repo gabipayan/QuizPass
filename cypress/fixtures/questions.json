@@ -1,0 +1,20 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "answers": [
+        { "text": "Hyper Text Markup Language", "isCorrect": true },
+        { "text": "Hot Text Markup Language", "isCorrect": false },
+        { "text": "Hyperlink Text Module Language", "isCorrect": false },
+        { "text": "Home Tool Markup Language", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the output of 2 + 2?",
+      "answers": [
+        { "text": "3", "isCorrect": false },
+        { "text": "4", "isCorrect": true },
+        { "text": "22", "isCorrect": false },
+        { "text": "NaN", "isCorrect": false }
+      ]
+    }
+  ]
